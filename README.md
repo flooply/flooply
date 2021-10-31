@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flooply
+- 👀 I’m interested in coding and other stuff such as gaming.
+- 🌱 I’m currently learning C#, LUA
+- 📫 How to reach me flooply.business@gmail.com 
